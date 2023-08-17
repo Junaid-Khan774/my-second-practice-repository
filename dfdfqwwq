@@ -1,0 +1,46 @@
+[33mcommit c5b1cf25ca00cd2bf83e09aab3f342d38127b74a[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Junaid Khan <ijunaid.khan74@gmail.com>
+Date:   Thu Aug 17 06:22:07 2023 -0700
+
+    Ignored some files and added .gitignore
+
+[1mdiff --git a/.gitignore b/.gitignore[m
+[1mnew file mode 100644[m
+[1mindex 0000000..3380c3b[m
+[1m--- /dev/null[m
+[1m+++ b/.gitignore[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32mmylogs.log[m
+\ No newline at end of file[m
+[1mdiff --git a/about.html b/about.html[m
+[1mindex ad559b3..9e218a6 100644[m
+[1m--- a/about.html[m
+[1m+++ b/about.html[m
+[36m@@ -6,4 +6,4 @@[m
+     <body>[m
+         [m
+     </body junaid>[m
+[31m-</html>[m
+\ No newline at end of file[m
+[32m+[m[32m</html>[m[41m [m
+\ No newline at end of file[m
+
+[33mcommit 5274e888fbc1c0db23c8232dc476f8bfc6d644bb[m
+Author: Junaid Khan <ijunaid.khan74@gmail.com>
+Date:   Wed Aug 16 10:55:57 2023 -0700
+
+    Removing Waste
+
+[1mdiff --git a/waste.html b/waste.html[m
+[1mdeleted file mode 100644[m
+[1mindex e69de29..0000000[m
+
+[33mcommit bf6afab5a82919a053506bea9623af155b2b630d[m
+Author: Junaid Khan <ijunaid.khan74@gmail.com>
+Date:   Wed Aug 16 10:48:32 2023 -0700
+
+    Adding Waste
+
+[1mdiff --git a/waste.html b/waste.html[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
